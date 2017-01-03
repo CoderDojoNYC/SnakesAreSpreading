@@ -1,0 +1,32 @@
+1. Title
+  <h1>My Awesome Game Name</h1>
+
+2. Canvas
+  <canvas id="the-game" width="400" height="320" />
+
+3. Styling
+  <link rel="stylesheet" href="style.css" type="text/css">
+
+4. Instruct the user how to save the snake from climate change
+
+5. Javascript
+<script type="text/javascript" src="game.js"></script>
+
+6. Starting Message - Line 23
+Line 23 of the game
+
+7. How would you like the snake to help the environment?
+
+http://keycode.info/
+8. Keys
+var keys = {
+  start_game: [13, 32]
+};
+
+9. Design how you will control your snake, what controls
+var keys = {
+  up: [38, 75, 87],
+  down: [40, 74, 83],
+  left: [37, 65, 72],
+  right: [39, 68, 76]
+}
